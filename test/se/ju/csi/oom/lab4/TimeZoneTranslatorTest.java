@@ -42,7 +42,6 @@ public class TimeZoneTranslatorTest {
 		
 		
 		
-		//My great random code changes
 	}
 
 	@Test
