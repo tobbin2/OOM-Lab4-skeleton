@@ -17,7 +17,7 @@ public class DateTimeTest {
 
 	@Test
 	public void test() {
-		assertEquals(datetimeobject1.toString(), "2014-05- 20:00:00");
+		assertEquals(datetimeobject1.toString(), "2014-05-01 20:00:00");
 		assertEquals(datetimeobject1.toString(),datetimeobject2.toString());
 	}
 
